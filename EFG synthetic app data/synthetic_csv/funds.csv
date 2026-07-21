@@ -1,0 +1,6 @@
+fund_id,fund_name,fund_type,currency,subscription_days,redemption_days,cutoff_time,gold_stamp_percent,subscription_fee,redemption_fee,return_period_label,fund_description
+FUND_GLD,EFG Hermes GLD Fund,Commodities,EGP,M-T-W-Th-S,M-T-W-Th-S,12:00 PM,0.02,0.0,0.0,Last Week,Exposure to the gold market without physical gold storage.
+FUND_EQ,EFG Hermes EQ Fund,Equity,EGP,M-T-W-Th-S,M-T-W-Th-S,12:00 PM,,0.0,0.0,Last Week,Equity fund listed in the mutual funds section.
+FUND_EQS,EFG Hermes EQ - Shariah Fund,Equity,EGP,M-T-W-Th-S,M-T-W-Th-S,12:00 PM,,0.0,0.0,Last Week,Shariah equity fund listed in the mutual funds section.
+FUND_MM,EFG Hermes MM Fund,Money Market,EGP,M-T-W-Th-S,M-T-W-Th-S,12:00 PM,,0.0,0.0,Annualized return,Money market fund listed in the mutual funds section.
+FUND_FI_USD,EFG Hermes FI USD Fund,Fixed income,USD,M-T-W-Th-S,M-T-W-Th-S,12:00 PM,,0.0,0.0,Annualized return,Fixed income USD fund listed in the mutual funds section.
